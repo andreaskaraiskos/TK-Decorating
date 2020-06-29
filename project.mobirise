@@ -913,6 +913,9 @@
             },
             "H1": {
               "text-align": "left"
+            },
+            "H3": {
+              "color": "#767676"
             }
           },
           "_name": "content003",
@@ -1010,6 +1013,9 @@
             "H1": {
               "text-align": "left",
               "color": "#333333"
+            },
+            "H3": {
+              "color": "#767676"
             }
           },
           "_name": "content003",
