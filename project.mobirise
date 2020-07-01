@@ -780,7 +780,7 @@
             ".content-wrapper": {
               "margin": "auto",
               "position": "relative",
-              "padding": "5rem 16rem"
+              "padding": "10rem 16rem"
             },
             ".content": {
               "max-width": "600px"
@@ -831,9 +831,7 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "alias": false,
