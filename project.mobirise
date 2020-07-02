@@ -1511,7 +1511,7 @@
               "color": "#333333"
             },
             ".mbr-text": {
-              "color": "#767676",
+              "color": "#333333",
               "text-align": "left"
             },
             "H1": {
