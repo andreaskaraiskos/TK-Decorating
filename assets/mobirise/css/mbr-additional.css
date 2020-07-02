@@ -2958,9 +2958,12 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-s0NdYpbKJM {
+  padding-top: 90px;
+  padding-bottom: 45px;
   background-color: #efeeee;
 }
 .cid-s0NdYpbKJM img {
+  padding-top: 50%);
   width: 100%;
   height: 100%;
   transition: 5s;
