@@ -2642,7 +2642,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s8ix4CqVUl .carousel-item .wrap-img img {
-  max-height: 500px;
+  max-height: 100%;
   width: auto;
   max-width: 100%;
 }
