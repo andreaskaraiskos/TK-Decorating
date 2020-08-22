@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "industrym4",
       "title": "IndustryM4",
@@ -83,8 +83,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "TK-decorating and General Building, Northamptonshire",
-        "meta_descr": "TK-Decorating, general building, property maintenance, in Paulerspury south,\nNorthamptonshire\nNN12 7NB  bathroom supply fit, Kitchens supply fit, uPVC doors windows supply and fit, facia soffits, gutting, jet wasing, paths, patios, driveways, Handyman Services, covering North, North West & West London, Middlesex, Herts & Buckinghamshire, and Northamptonshire",
+        "title": "TK-decorating and General Building, 07958 487728",
+        "meta_descr": "Property maintenance in Paulerspury, South\nNorthamptonshire\nNN12 7NB. Bathrooms & Kitchens supplied & fitted, uPVC doors & windows supplied and fitted, facia soffits, gutting, jet washing, paths, patios, driveways, Handyman Services, covering  North West & West London, Middlesex, Herts & Buckinghamshire, and Northamptonshire",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
